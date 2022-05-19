@@ -2,5 +2,7 @@
 
 - Intern cybersecurity specialist.
 - Linux administrator.
-- Itern CNC and robot industrial specialist.
+- Intern CNC and robot industrial specialist.
 - Python and C/C++ programmer(intern).
+- Intern Arduino specialist(1 project).
+
