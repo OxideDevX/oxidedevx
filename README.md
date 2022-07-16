@@ -1,9 +1,8 @@
 ### 👋 Hi! I`m OxideDevX, in real life my name is Alexander.
 
-- Intern cybersecurity specialist.
-- Linux administrator.
-- Intern CNC and robot industrial specialist(CRP industrial robot and GSK (HWASHI) robot).
-- Python and C/C++ programmer(intern).
+- Junior cybersecurity specialist.
+- Junior Linux administrator.
+- Python programmer(intern).
 - Intern Arduino specialist(1 project).
 
 ###### Learning: Java, data structures, network programming , Solidity and Pentesting!
