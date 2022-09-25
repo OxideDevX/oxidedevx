@@ -1,4 +1,4 @@
-### 👋 Hi! I`m OxideDevX, in real life my name is Alexander.
+### 👋 Hi! I`m OxideDevX, in real life my name is Bondar Olexander Sergeevich. 
 
 - Junior cybersecurity specialist.
 - Junior Linux administrator.
